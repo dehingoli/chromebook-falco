@@ -1,2 +1,7 @@
 cli-extra: sudo startcli
 core
+
+
+http://oletange.blogspot.com/2012/04/umount-device-is-busy-why.html
+
+sudo dd if=kali-2.1.2-exynos.img of=/media/removable/boot-ext4 bs=512k
